@@ -9,7 +9,6 @@ Bem-vindo ao meu portfólio! Este projeto apresenta minhas habilidades e projeto
 - [Projetos](#projetos)
 - [Como Acessar](#como-acessar)
 - [Contato](#contato)
-- [Licença](#licença)
 
 ## Sobre Mim
 
@@ -49,14 +48,8 @@ Se você deseja entrar em contato, pode me encontrar nas seguintes redes sociais
 
 - [Instagram](https://www.instagram.com/damaris_rfranca/)
 - [LinkedIn](https://www.linkedin.com/in/damarisrmfran%C3%A7a/)
-- [GitHub](https://github.com/DamarisJs)
 
 Você também pode me enviar um e-mail para: [damarisfrancaribeiro@hotmail.com](mailto:damarisfrancaribeiro@hotmail.com).
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
 
 Agradeço por visitar meu portfólio! Estou sempre aberta a feedbacks e oportunidades de colaboração.
